@@ -1,2 +1,2 @@
-# Flipkart-Laptops-SKUs
+# Flipkart Laptops Analysis (EDA)
 Flipkart Laptops SKUs
