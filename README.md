@@ -41,4 +41,8 @@ The columns are as follows:
     - ratings  
     - no_of_ratings  
     - Details
+
+## EDA (Data Analysis Results):
+Please Go thorugh the ipython file for more in detail analysis, below are some key Details. 
+
     
