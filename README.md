@@ -34,11 +34,11 @@ This data is scraped from the first 40 pages of flipkart.com website for the sea
 There is no Null Values and duplicates in the dataset. There are 8 columns and 404 rows in the dataset.  
 The columns are as follows:  
     - Name ( name of the product)  
-    - Brand ( Brand)
-    - Selling Price
-    - MRP
-    - Discount
-    - ratings
-    - no_of_ratings
+    - Brand ( Brand)  
+    - Selling Price  
+    - MRP  
+    - Discount  
+    - ratings  
+    - no_of_ratings  
     - Details
     
