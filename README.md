@@ -33,7 +33,7 @@ This dataset consist of details of all the laptops models(SKUs) listed on the Fl
 This data is scraped from the first 40 pages of flipkart.com website for the search keyword laptop.  
 There is no Null Values and duplicates in the dataset. There are 8 columns and 404 rows in the dataset.  
 The columns are as follows:  
-    - Name ( name of the product)
+    - Name ( name of the product)  
     - Brand ( Brand)
     - Selling Price
     - MRP
